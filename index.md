@@ -1,4 +1,4 @@
-## Welcome to Ethiopian Live Tv Page
+## Ethiopian Live
 
 Ethiopian Live Tv is an onlive televsion channel streaming application developed for the android platform.
 
