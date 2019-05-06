@@ -5,7 +5,7 @@
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["News", "Entertainment", "Language", "Education", "Health"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/fana.png",
     "g":"https://video2.vixtream.net/tv/v/fbctv",
     "c":true,
     "h":"https://fb.com/fanatv",
@@ -13,13 +13,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":2,
     "d":"channel",
     "a":"EBC Zena",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["News", "Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/ebcz.png",
     "g":"https://video2.vixtream.net/tv/v/etvz",
     "c":true,
     "h":"https://fb.com/fanatv",
@@ -27,13 +26,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":3,
     "d":"channel",
     "a":"EBC Meznagna",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["News", "Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/ebcm.png",
     "g":"https://video2.vixtream.net/tv/v/etvm",
     "c":false,
     "h":"https://fb.com/fanatv",
@@ -41,13 +39,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":4,
     "d":"channel",
     "a":"EBC Quanqua",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/ebcq.png",
     "g":"https://video2.vixtream.net/tv/v/etvq",
     "c":false,
     "h":"https://fb.com/fanatv",
@@ -55,13 +52,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":5,
     "d":"channel",
     "a":"Walta Tv",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["News", "Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/walta.png",
     "g":"https://video2.vixtream.net/tv/v/walta",
     "c":false,
     "h":"https://fb.com/fanatv",
@@ -69,13 +65,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":6,
     "d":"channel",
     "a":"Bisrat TV",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["Language", "Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/bisrat.png",
     "g":"https://video2.vixtream.net/tv/v/bisrat",
     "c":false,
     "h":"https://fb.com/fanatv",
@@ -83,13 +78,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":7,
     "d":"channel",
     "a":"EBS tv",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["News", "Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/ebs.png",
     "g":"https://video2.vixtream.net/tv/v/ebs",
     "c":true,
     "h":"https://fb.com/fanatv",
@@ -97,13 +91,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":8,
     "d":"channel",
     "a":"LTV",
     "b": "በህይወት ፍጥነት!",
     "e":"There are a lot of Anti virus programs for the Android operating system that provide security silution preventing passive and active threats that can harmthe smartphone user. This paper presents the mechanism that work behind thosesecurity products to detect malicios behaviour. Two approaches will be followedto conduct the research. The first approach is by revising the previous workdone by scholars on the subject matter. The second one is by performing anexperimental research on selected malicious programs againt Anti virus solutions.Five popular Anti virus products are selected for this project  they are; comod, avast, kaspersky, northon and eset. On the other hand for the malicious programswhose behaviour are going to be studied,, three malwares have been selected. Thethree malwares are Skygofree, Ghost ctrl and Colou Block. Since the malwares aregoing to be studied at the source code level, the selected malwares have beenfully decompiled as a first step. Then they are tested by modifying the valuesthat made them to be detected as malicios and the result will be studied..",
     "k":["News", "Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/ltv.png",
     "g":"https://video2.vixtream.net/tv/v/ltv",
     "c":true,
     "h":"https://fb.com/fanatv",
@@ -111,13 +104,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":9,
     "d":"channel",
     "a":"Arts TV",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["News", "Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/arts.png",
     "g":"https://video2.vixtream.net/tv/v/arts",
     "c":false,
     "h":"https://fb.com/fanatv",
@@ -125,13 +117,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":10,
     "d":"channel",
     "a":"Kana Tv",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/kana.png",
     "g":"https://video2.vixtream.net/tv/v/kana",
     "c":true,
     "h":"https://fb.com/fanatv",
@@ -139,13 +130,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":11,
     "d":"channel",
     "a":"Nahoo Tv",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["News", "Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/nahoo.png",
     "g":"https://video2.vixtream.net/tv/v/nahoo",
     "c":false,
     "h":"https://fb.com/fanatv",
@@ -153,13 +143,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":12,
     "d":"channel",
     "a":"OBN",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["Language", "Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/obn.png",
     "g":"https://video2.vixtream.net/tv/v/obn",
     "c":false,
     "h":"https://fb.com/fanatv",
@@ -167,13 +156,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":13,
     "d":"channel",
     "a":"OBS",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["News", "Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/obs.png",
     "g":"https://video2.vixtream.net/tv/v/obs",
     "c":false,
     "h":"https://fb.com/fanatv",
@@ -181,13 +169,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":14,
     "d":"channel",
     "a":"Tigray Tv",
     "b": "በህይወት ፍጥነት!",
     "e":"There are a lot of Anti virus programs for the Android operating system that provide security silution preventing passive and active threats that can harmthe smartphone user. This paper presents the mechanism that work behind thosesecurity products to detect malicios behaviour. Two approaches will be followedto conduct the research. The first approach is by revising the previous workdone by scholars on the subject matter. The second one is by performing anexperimental research on selected malicious programs againt Anti virus solutions.Five popular Anti virus products are selected for this project  they are; comod, avast, kaspersky, northon and eset. On the other hand for the malicious programswhose behaviour are going to be studied,, three malwares have been selected. Thethree malwares are Skygofree, Ghost ctrl and Colou Block. Since the malwares aregoing to be studied at the source code level, the selected malwares have beenfully decompiled as a first step. Then they are tested by modifying the valuesthat made them to be detected as malicios and the result will be studied..",
     "k":["News", "Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/tig.png",
     "g":"https://video2.vixtream.net/tv/v/tigrai",
     "c":false,
     "h":"https://fb.com/fanatv",
@@ -195,13 +182,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":15,
     "d":"channel",
     "a":"JTV",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["News", "Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/jtv.png",
     "g":"https://video2.vixtream.net/tv/v/jtv",
     "c":false,
     "h":"https://fb.com/fanatv",
@@ -209,13 +195,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":16,
     "d":"channel",
     "a":"OMN",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/omn.png",
     "g":"https://video2.vixtream.net/tv/v/omn",
     "c":false,
     "h":"https://fb.com/fanatv",
@@ -223,13 +208,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":17,
     "d":"channel",
     "a":"DW TV",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["News", "Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/dw.png",
     "g":"https://video2.vixtream.net/tv/v/dws",
     "c":false,
     "h":"https://fb.com/fanatv",
@@ -237,13 +221,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":18,
     "d":"channel",
     "a":"Amhara TV",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["Language", "Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/ama.png",
     "g":"https://video2.vixtream.net/tv/v/amma",
     "c":false,
     "h":"https://fb.com/fanatv",
@@ -251,13 +234,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":19,
     "d":"channel",
     "a":"SRTV",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["News", "Entertainment", "Language"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/srtv.png",
     "g":"https://video2.vixtream.net/tv/v/estv",
     "c":false,
     "h":"https://fb.com/fanatv",
@@ -265,13 +247,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":20,
     "d":"channel",
     "a":"Asham tv",
     "b": "በህይወት ፍጥነት!",
     "e":"There are a lot of Anti virus programs for the Android operating system that provide security silution preventing passive and active threats that can harmthe smartphone user. This paper presents the mechanism that work behind thosesecurity products to detect malicios behaviour. Two approaches will be followedto conduct the research. The first approach is by revising the previous workdone by scholars on the subject matter. The second one is by performing anexperimental research on selected malicious programs againt Anti virus solutions.Five popular Anti virus products are selected for this project  they are; comod, avast, kaspersky, northon and eset. On the other hand for the malicious programswhose behaviour are going to be studied,, three malwares have been selected. Thethree malwares are Skygofree, Ghost ctrl and Colou Block. Since the malwares aregoing to be studied at the source code level, the selected malwares have beenfully decompiled as a first step. Then they are tested by modifying the valuesthat made them to be detected as malicios and the result will be studied..",
     "k":["News", "Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/asham.png",
     "g":"https://video2.vixtream.net/tv/v/asham",
     "c":false,
     "h":"https://fb.com/fanatv",
@@ -279,13 +260,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":21,
     "d":"channel",
     "a":"Eritrea tv",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["News", "Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/eri.png",
     "g":"https://video2.vixtream.net/tv/v/eritr",
     "c":false,
     "h":"https://fb.com/fanatv",
@@ -293,13 +273,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":22,
     "d":"channel",
     "a":"Afrihealth",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["Entertainment", "Health"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/afri.png",
     "g":"https://video2.vixtream.net/tv/v/afri",
     "c":false,
     "h":"https://fb.com/fanatv",
@@ -307,13 +286,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":23,
     "d":"channel",
     "a":"ONN TV",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["News", "Entertainment"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/onn.png",
     "g":"https://video2.vixtream.net/tv/v/onn",
     "c":false,
     "h":"https://fb.com/fanatv",
@@ -321,13 +299,12 @@
     "j":"https://twitter.com/fanatv"
   },
   {
-    "id":24,
     "d":"channel",
     "a":"MoE TV",
     "b": "በህይወት ፍጥነት!",
     "e":"Ethiopian broadcasting corporate is a national television governed by he Ethiopian government.",
     "k":["News", "Education"],
-    "f":"R.drawable.test",
+    "f":"https://bazenitech.github.io/ethiopianlivetv/images/moe.png",
     "g":"https://video2.vixtream.net/tv/v/moe",
     "c":false,
     "h":"https://fb.com/fanatv",
