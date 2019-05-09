@@ -3,7 +3,7 @@
     "d": "channel",
     "a": "LTV",
     "b": "For The Better Of Life",
-	"e": "LTV Ethiopia is a free-to-air satellite TV channel in Ethiopia owned and started by Dr. Gemechis Deseta Buba. It was created for the purpose of spreading the Ethiopian culture to the world through its programming and to fill the lack of private channels in Ethiopia."
+    "e": "LTV Ethiopia is a free-to-air satellite TV channel in Ethiopia owned and started by Dr. Gemechis Deseta Buba. It was created for the purpose of spreading the Ethiopian culture to the world through its programming and to fill the lack of private channels in Ethiopia.",
     "k": ["News", "Entertainment"],
     "f": "https://bazenitech.github.io/ethiopianlivetv/images/ltv.png",
     "g": "https://video2.vixtream.net/tv/v/ltv",
@@ -24,7 +24,7 @@
     "h": "https://www.facebook.com/fanabroadcasting",
     "i": "https://www.youtube.com/user/fanabroadcasting",
     "j": "https://twitter.com/fanatelevision",
-	"l": "https://fanabc.com"
+    "l": "https://fanabc.com"
   },
   {
     "d": "channel",
@@ -38,7 +38,7 @@
     "h": "https://www.facebook.com/EBCzena",
     "i": "https://www.youtube.com/channel/UCOhrz3uRCOHmK6ueUstw7_Q",
     "j": "https://twitter.com/ebczena",
-	"l": "http://www.ebc.et"
+    "l": "http://www.ebc.et"
   },
   {
     "d": "channel",
@@ -52,7 +52,7 @@
     "h": "https://www.facebook.com/EBCzena",
     "i": "https://www.youtube.com/channel/UCOhrz3uRCOHmK6ueUstw7_Q",
     "j": "https://twitter.com/ebczena",
-	"l": "http://www.ebc.et"
+    "l": "http://www.ebc.et"
   },
   {
     "d": "channel",
@@ -66,7 +66,7 @@
     "h": "https://www.facebook.com/EBCzena",
     "i": "https://www.youtube.com/channel/UCOhrz3uRCOHmK6ueUstw7_Q",
     "j": "https://twitter.com/ebczena",
-	"l": "http://www.ebc.et"
+    "l": "http://www.ebc.et"
   },
   {
     "d": "channel",
@@ -80,7 +80,7 @@
     "h": "https://www.facebook.com/waltainfo",
     "i": "https://www.youtube.com/channel/UCIXmPuo0pWdxTwPaOsvUBxw",
     "j": "https://twitter.com/walta_info",
-	"l": "http://www.waltainfo.com"
+    "l": "http://www.waltainfo.com"
   },
   {
     "d": "channel",
@@ -94,7 +94,7 @@
     "h": "https://www.facebook.com/Bisrat101.1",
     "i": "https://www.youtube.com/channel/UCUyrfAB9aE6RmXJhQfRwM0Q",
     "j": "https://twitter.com/tvbisrat",
-	"l": "http://www.bisrat101.com"
+    "l": "http://www.bisrat101.com"
   },
   {
     "d": "channel",
@@ -108,7 +108,7 @@
     "h": "https://www.facebook.com/theEBStv",
     "i": "https://www.youtube.com/channel/UCVcc_sbg3AcXLV9vVufJrGg",
     "j": "https://twitter.com/TheEbstv",
-	"l": "http://ebstv.tv"
+    "l": "http://ebstv.tv"
   },
   {
     "d": "channel",
@@ -122,7 +122,7 @@
     "h": "https://www.facebook.com/ArtsTvWorld",
     "i": "https://www.youtube.com/c/ArtsTvWorld",
     "j": "https://twitter.com/ArtsTvWorld",
-	"l": "http://www.artstv.tv"
+    "l": "http://www.artstv.tv"
   },
   {
     "d": "channel",
@@ -136,7 +136,7 @@
     "h": "https://www.facebook.com/kanatelevision",
     "i": "https://www.youtube.com/Kanatelevision",
     "j": "https://twitter.com/KanaTelevision",
-	"l": "http://www.kanatelevision.com"
+    "l": "http://www.kanatelevision.com"
   },
   {
     "d": "channel",
@@ -181,7 +181,7 @@
     "d": "channel",
     "a": "Tigray Tv",
     "b": "",
-	"e": "Tigray state television channel",
+    "e": "Tigray state television channel",
     "k": ["News", "Entertainment", "Language"],
     "f": "https://bazenitech.github.io/ethiopianlivetv/images/tigray.png",
     "g": "https://video2.vixtream.net/tv/v/tigrai",
@@ -215,7 +215,7 @@
     "h": "https://www.facebook.com/OromiaMedia",
     "i": "https://www.youtube.com/channel/UCmAnzjcjIgtWuE6AnBCViTg",
     "j": "https://twitter.com/oromiamedia",
-	"l": "https://oromiamedia.com"
+    "l": "https://oromiamedia.com"
   },
   {
     "d": "channel",
@@ -229,7 +229,7 @@
     "h": "https://www.facebook.com/dimtsiweyane",
     "i": "https://www.youtube.com/c/dimtsiweyaneTV",
     "j": "https://twitter.com/dimtsiweyane",
-	"l": "http://www.dmtsiweyane.com/"
+    "l": "http://www.dmtsiweyane.com/"
   },
   {
     "d": "channel",
@@ -256,13 +256,13 @@
     "h": "",
     "i": "https://www.youtube.com/user/nogobnewsDDS/",
     "j": "",
-	"l": "http://srtvlive.net"
+    "l": "http://srtvlive.net"
   },
   {
     "d": "channel",
     "a": "Asham tv",
     "b": "",
-	"e": "Asham Tv is a privately owned media company, based in Addis Ababa, Ethiopia, that provides news, Analysis, information and other programs."
+    "e": "Asham Tv is a privately owned media company, based in Addis Ababa, Ethiopia, that provides news, Analysis, information and other programs.",
     "k": ["Entertainment"],
     "f": "https://bazenitech.github.io/ethiopianlivetv/images/asham.png",
     "g": "https://video2.vixtream.net/tv/v/asham",
@@ -296,7 +296,7 @@
     "h": "https://www.facebook.com/pg/afrihealthTV",
     "i": "https://www.youtube.com/channel/UCOi_Xhhc151xdOOX7wUULpg",
     "j": "",
-	"l": "http://www.afrihealth.net"
+    "l": "http://www.afrihealth.net"
   },
   {
     "d": "channel",
@@ -310,7 +310,7 @@
     "h": "",
     "i": "https://www.youtube.com/channel/UCe_UkqCNpdYtQsQDXT-lwJw",
     "j": "https://twitter.com/Oromianewsnet",
-	"l": "http://oromianewsnetwork.org"
+    "l": "http://oromianewsnetwork.org"
   },
   {
     "d": "channel",
@@ -324,6 +324,6 @@
     "h": "https://www.facebook.com/fdremoe",
     "i": "",
     "j": "",
-	"l": "http://www.moe.gov.et"
+    "l": "http://www.moe.gov.et"
   }
 ]
