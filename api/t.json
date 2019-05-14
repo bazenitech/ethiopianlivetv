@@ -1,6 +1,5 @@
 [
   {
-    "d": "channel",
     "a": "LTV",
     "b": "For The Better Of Life",
     "e": "LTV Ethiopia is a free-to-air satellite TV channel in Ethiopia owned and started by Dr. Gemechis Deseta Buba. It was created for the purpose of spreading the Ethiopian culture to the world through its programming and to fill the lack of private channels in Ethiopia.",
@@ -13,7 +12,6 @@
     "j": "https://twitter.com/LTV_Ethiopia"
   },
   {
-    "d": "channel",
     "a": "Fana TV",
     "b": "At a Speed of Life!",
     "e": "Fana TV is an Ethiopian satellite television news channel owned by Fana Broadcasting Corporate. Launched in 2017, the channel is based in Ethiopia and broadcasts programming in Amharic. It has its studios located at the headquarters of Fana Broadcasting Corporate in Addis Ababa, Ethiopia.",
@@ -27,7 +25,6 @@
     "l": "https://fanabc.com"
   },
   {
-    "d": "channel",
     "a": "ETV Zena",
     "b": "",
     "e": "The Ethiopian Broadcasting Corporation is an Ethiopian public service broadcaster. It is headquartered in Addis Ababa, Ethiopia and it is the country's oldest and largest broadcaster. EBC was established by the order of Emperor Haile Selassie and initially operated by a British firm, Thomson.",
@@ -41,7 +38,6 @@
     "l": "http://www.ebc.et"
   },
   {
-    "d": "channel",
     "a": "ETV Meznagna",
     "b": "",
     "e": "The Ethiopian Broadcasting Corporation is an Ethiopian public service broadcaster. It is headquartered in Addis Ababa, Ethiopia and it is the country's oldest and largest broadcaster. EBC was established by the order of Emperor Haile Selassie and initially operated by a British firm, Thomson.",
@@ -55,7 +51,6 @@
     "l": "http://www.ebc.et"
   },
   {
-    "d": "channel",
     "a": "ETV Quanqua",
     "b": "",
     "e": "The Ethiopian Broadcasting Corporation is an Ethiopian public service broadcaster. It is headquartered in Addis Ababa, Ethiopia and it is the country's oldest and largest broadcaster. EBC was established by the order of Emperor Haile Selassie and initially operated by a British firm, Thomson.",
@@ -69,7 +64,6 @@
     "l": "http://www.ebc.et"
   },
   {
-    "d": "channel",
     "a": "Walta Tv",
     "b": "Committed to Make a Difference",
     "e": "Walta Information and Public Relations Center S.C. is a private media outlet and Public Relations Center established in 1994. Its major objective is playing significant roles in minimizing the gap of information flow in Ethiopia.",
@@ -83,7 +77,6 @@
     "l": "http://www.waltainfo.com"
   },
   {
-    "d": "channel",
     "a": "Bisrat TV",
     "b": "ብስራት የአድማጭ ተመልካቾቹ ኩራት!!! ",
     "e": "Bisrat TV is a sister company of Bisrat 101.1FM established by Oyaya Multimedia PLC. ",
@@ -97,7 +90,6 @@
     "l": "http://www.bisrat101.com"
   },
   {
-    "d": "channel",
     "a": "EBS tv",
     "b": "Your #1 Choice",
     "e": "EBS is a privately held media company established in 2008 in Silver Spring, Maryland, USA to provide a niche transmission programming that targets the booming Ethiopian market globally.",
@@ -111,7 +103,6 @@
     "l": "http://ebstv.tv"
   },
   {
-    "d": "channel",
     "a": "Arts TV",
     "b": "",
     "e": "African Renaissance Television Service is an Ethiopian television news channel owned by ARTS Media S.C. Launched in 2018, the channel is based in Ethiopia and broadcasts programming mainly in Amharic with some programming in English. It has its studios located in Addis Ababa, Ethiopia.",
@@ -125,7 +116,6 @@
     "l": "http://www.artstv.tv"
   },
   {
-    "d": "channel",
     "a": "Kana Tv",
     "b": "Tasty",
     "e": "Kana TV is an Ethiopian general entertainment, free-to-air, satellite TV channel bringing international standard programming to the Ethiopian population. We broadcast exclusively in Amharic to ensure that our programs have the broadest relevance.",
@@ -139,7 +129,6 @@
     "l": "http://www.kanatelevision.com"
   },
   {
-    "d": "channel",
     "a": "Nahoo Tv",
     "b": "Now is the time",
     "e": "Nahoo TV is a private Infotainment TV station with a motto of promoting Ethiopian Culture, History & general wellbeing of the society",
@@ -152,7 +141,6 @@
     "j": "https://twitter.com/nahootv"
   },
   {
-    "d": "channel",
     "a": "OBN",
     "b": "Voice of the People",
     "e": "OBN is public media and nonprofit news enterprise whose mission is to produce original and citizen-driven reporting on Oromia and Ethiopia.",
@@ -165,7 +153,6 @@
     "j": "https://twitter.com/OBNoromiyaa"
   },
   {
-    "d": "channel",
     "a": "OBS",
     "b": "Connecting your ideas and businesses with your people",
     "e": "Oromia Broadcasting Services (OBS) is an independent and impartial international broadcasting company established to promote the progress and advancement of society through the production, collection and dissemination of knowledge and information with the aim to inform, educate and entertain.",
@@ -178,7 +165,6 @@
     "j": ""
   },
   {
-    "d": "channel",
     "a": "Tigray Tv",
     "b": "",
     "e": "Tigray state television channel",
@@ -191,7 +177,6 @@
     "j": ""
   },
   {
-    "d": "channel",
     "a": "JTV",
     "b": "Ethiopian Kindness",
     "e": "JTV Ethiopia is a free-to-air satellite television channel operating in Ethiopia. It is based in Phoenix, Arizona, U.S and was launched in 2016 on Nilesat.",
@@ -204,7 +189,6 @@
     "j": ""
   },
   {
-    "d": "channel",
     "a": "OMN",
     "b": "",
     "e": "OMN is an independent, nonpartisan and nonprofit news enterprise whose mission is to produce original and citizen-driven reporting on Oromia.",
@@ -218,7 +202,6 @@
     "l": "https://oromiamedia.com"
   },
   {
-    "d": "channel",
     "a": "DW TV",
     "b": "The Reliable Source",
     "e": "Dimtsi Weyane is an Ethiopian television news channel headquartered in Mekelle, Ethiopia. Owned by Dimtsi Weyane Tigray P.L.C., it was launched in December 2018. The channel broadcasts programming mainly in Tigrinya with some programming in Amharic and English.",
@@ -232,7 +215,6 @@
     "l": "http://www.dmtsiweyane.com/"
   },
   {
-    "d": "channel",
     "a": "Amhara TV",
     "b": "",
     "e": "Amhara state television channel.",
@@ -245,7 +227,6 @@
     "j": "https://twitter.com/ammaonline2"
   },
   {
-    "d": "channel",
     "a": "SRTV",
     "b": "",
     "e": "Somali state television channel.",
@@ -259,7 +240,6 @@
     "l": "http://srtvlive.net"
   },
   {
-    "d": "channel",
     "a": "Asham tv",
     "b": "",
     "e": "Asham Tv is a privately owned media company, based in Addis Ababa, Ethiopia, that provides news, Analysis, information and other programs.",
@@ -272,7 +252,6 @@
     "j": "https://twitter.com/tv_asham"
   },
   {
-    "d": "channel",
     "a": "Eritrea tv",
     "b": "Serving the truth",
     "e": "Eri-TV is a state-owned Eritrean television station. Headquartered in the nation's capital Asmara, it broadcasts 24 hours a day. The station offers around-the-clock news bulletins, talk shows, and cultural and educational programs.",
@@ -285,7 +264,6 @@
     "j": ""
   },
   {
-    "d": "channel",
     "a": "Afrihealth",
     "b": "Health is my right!",
     "e": "AfriHealth TV is an Ethiopian entertainment, free-to-air, satellite TV channel bringing international standard health-related content to the Ethiopian population. We broadcast in Amharic to ensure that our programs have the broadest relevance.",
@@ -299,7 +277,6 @@
     "l": "http://www.afrihealth.net"
   },
   {
-    "d": "channel",
     "a": "ONN TV",
     "b": "",
     "e": "Oromia News Network (ONN) is an independent media organization registered in the United States and focusing on the Oromo people and their country Oromia.",
@@ -313,7 +290,6 @@
     "l": "http://oromianewsnetwork.org"
   },
   {
-    "d": "channel",
     "a": "MoE TV",
     "b": "",
     "e": "Ministry of Education Ethiopia Television channel.",
@@ -325,5 +301,31 @@
     "i": "",
     "j": "",
     "l": "http://www.moe.gov.et"
+  },
+  {
+    "a": "Ahadu TV",
+    "b": "",
+    "e": "Ahadu Tv and Radio is here to provide a trusted and indispensable source of information and entertainment while strengthening the civic and cultural life of the people we serve.",
+    "k": ["Entertainment"],
+    "f": "https://bazenitech.github.io/ethiopianlivetv/images/ahadu.png",
+    "g": "https://video2.vixtream.net/tv/v/ahadu",
+    "c": false,
+    "h": "https://www.facebook.com/ahaduradio",
+    "i": "https://www.youtube.com/channel/UCxf5UFD9qlGWaQbkRfrTDXw",
+    "j": "https://twitter.com/ahadu_radio",
+    "l": "http://ahaduradio.com"
+  },
+  {
+    "a": "ESTV",
+    "b": "",
+    "e": "Eastern Somali Ethiopian Television (ESTV) is the principle public service broadcast in Ethiopia and it is government owned somali channel which broadcasts news and entertainment from around the world in somali and amharic language, and can be viewed both within Ethiopia and abroad via terrestrial and satellite platforms on 24/7.",
+    "k": ["News", "Entertainment", "Language"],
+    "f": "https://bazenitech.github.io/ethiopianlivetv/images/estv.png",
+    "g": "https://video2.vixtream.net/tv/v/estv",
+    "c": false,
+    "h": "https://www.facebook.com/estvlive24",
+    "i": "https://www.youtube.com/user/nogobnewsDDS",
+    "j": "",
+    "l": "http://www.estvlive.com"
   }
 ]

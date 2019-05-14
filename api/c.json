@@ -1,32 +1,32 @@
 [
 	{
-		"b":14,
+		"b":15,
 		"a":"News",
 		"c":"#ffcdd2",
-		"d":"https://ethiopianlivetv.com/news.png"
+		"d":"https://bazenitech.github.io/ethiopianlivetv/images/news.png"
 	},
 	{
-		"b":20,
+		"b":22,
 		"a":"Entertainment",
 		"c":"#bbdefb",
-		"d":"https://ethiopianlivetv.com/entert.png"
+		"d":"https://bazenitech.github.io/ethiopianlivetv/images/entert.png"
 	},
 	{
-		"b":10,
+		"b":11,
 		"a":"Language",
 		"c":"#d1c4e9",
-		"d":"https://ethiopianlivetv.com/lang.png"
+		"d":"https://bazenitech.github.io/ethiopianlivetv/images/lang.png"
 	},
 	{
 		"b":1,
 		"a":"Health",
 		"c":"#dcedc8",
-		"d":"https://ethiopianlivetv.com/health.png"
+		"d":"https://bazenitech.github.io/ethiopianlivetv/images/health.png"
 	},
 	{
 		"b":1,
 		"a":"Sport",
 		"c":"#ffe0b2",
-		"d":"https://ethiopianlivetv.com/sport.png"
+		"d":"https://bazenitech.github.io/ethiopianlivetv/images/sport.png"
 	}
 ]
