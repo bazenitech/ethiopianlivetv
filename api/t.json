@@ -327,18 +327,31 @@
     "i": "https://www.youtube.com/user/nogobnewsDDS",
     "j": "",
     "l": "http://www.estvlive.com"
-  }
-    {
+  },
+  {
     "a": "Ethiopia Lijoch TV",
-    "b": "Ethiopian Children Television",
+    "b": "THE FIRST Ethiopian Children Television",
     "e": "Ethiopian Children Television a private Children Television Broadcasting Service with the objective of providing entertainment, educational and informative television programs for Children.",
-    "k": ["Education", "Entertainment"],
+    "k": ["Education"],
     "f": "https://bazenitech.github.io/ethiopianlivetv/images/yeethiopialijoch.png",
-    "g": "..................",
+    "g": "https://video2.vixtream.net/tv/v/ectv",
     "c": false,
     "h": "https://www.facebook.com/YeEthiopiaLijochTV/",
     "i": "https://www.youtube.com/channel/UC7iTiAAALfOk9ZgKe7cQKYw",
     "j": "",
     "l": "http://yeethiopialijoch.com/"
+  },
+  {
+    "a": "ESAT",
+    "b": "The Ethiopian Peoples' Eye and Ear",
+    "e": "The Ethiopian Satellite Television & Radio (ESAT) is a nonprofit and independent media outlet established primarily to promote free press, democracy, respect for human rights and the rule of law. It mainly serves Ethiopians back home and the Diaspora around the world.",
+    "k": ["News", "Entertainment"],
+    "f": "https://bazenitech.github.io/ethiopianlivetv/images/esat.png",
+    "g": "https://video2.vixtream.net/tv/v/esat",
+    "c": false,
+    "h": "https://www.facebook.com/ESATtv/",
+    "i": "https://www.youtube.com/c/ESATforEthiopia",
+    "j": "",
+    "l": "https://ethsat.com/category/esat-tv/"
   }
 ]
