@@ -28,5 +28,11 @@
 		"a":"Sport",
 		"c":"#ffe0b2",
 		"d":"https://bazenitech.github.io/ethiopianlivetv/images/sport.png"
+	},
+	{
+		"b":2,
+		"a":"Education",
+		"c":"#fcf003",
+		"d":"https://bazenitech.github.io/ethiopianlivetv/images/education.png"
 	}
 ]
