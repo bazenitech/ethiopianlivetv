@@ -329,7 +329,7 @@
     "l": "http://www.estvlive.com"
   },
   {
-    "a": "Ethiopia Lijoch TV",
+    "a": "Ye Ethiopia Lijoch TV",
     "b": "THE FIRST Ethiopian Children Television",
     "e": "Ethiopian Children Television a private Children Television Broadcasting Service with the objective of providing entertainment, educational and informative television programs for Children.",
     "k": ["Education"],
@@ -353,5 +353,31 @@
     "i": "https://www.youtube.com/c/ESATforEthiopia",
     "j": "",
     "l": "https://ethsat.com/category/esat-tv/"
+  },
+  {
+    "a": "ASRAT MEDIA",
+    "b": "",
+    "e": "ASRAT is here to provide fair and unbiased information to its people.",
+    "k": ["News"],
+    "f": "https://bazenitech.github.io/ethiopianlivetv/images/asrat.png",
+    "g": "https://video2.vixtream.net/tv/v/asrat",
+    "c": false,
+    "h": "https://www.facebook.com/ASRATMEDIAHOUSE/",
+    "i": "https://www.youtube.com/channel/UCzKNQPxq0xTisQtBi8MTZWA",
+    "j": "",
+    "l": "http://www.asratmediahouse.org/"
+  },
+  {
+    "a": "Balageru",
+    "b": "For quality and entertaining news",
+    "e": "Balageru television, since its early conception in 2012, by its founder has been working very hard to launch a channel that can satisfy the need of Ethiopians that reside in Ethiopia, North American and elsewhere.",
+    "k": ["News", "Entertainment"],
+    "f": "https://bazenitech.github.io/ethiopianlivetv/images/balageru.png",
+    "g": "https://video2.vixtream.net/tv/v/balage",
+    "c": false,
+    "h": "https://www.facebook.com/Balageru-TV-2098932903654366/",
+    "i": "https://www.youtube.com/channel/UCZQjF-U15cMICGZ7W3jJreg",
+    "j": "",
+    "l": "https://www.balagerutv.com/"
   }
 ]
