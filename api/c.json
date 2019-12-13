@@ -1,18 +1,18 @@
 [
 	{
-		"b":15,
+		"b":19,
 		"a":"News",
 		"c":"#ffcdd2",
 		"d":"https://bazenitech.github.io/ethiopianlivetv/images/news.png"
 	},
 	{
-		"b":22,
+		"b":25,
 		"a":"Entertainment",
 		"c":"#bbdefb",
 		"d":"https://bazenitech.github.io/ethiopianlivetv/images/entert.png"
 	},
 	{
-		"b":11,
+		"b":13,
 		"a":"Language",
 		"c":"#d1c4e9",
 		"d":"https://bazenitech.github.io/ethiopianlivetv/images/lang.png"
@@ -34,5 +34,11 @@
 		"a":"Education",
 		"c":"#fcf003",
 		"d":"https://bazenitech.github.io/ethiopianlivetv/images/education.png"
+	},
+	{
+		"b":1,
+		"a":"Children",
+		"c":"#0384fc",
+		"d":"https://bazenitech.github.io/ethiopianlivetv/images/children.png"
 	}
 ]
