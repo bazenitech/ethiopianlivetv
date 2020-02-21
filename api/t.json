@@ -379,5 +379,61 @@
     "i": "https://www.youtube.com/channel/UCZQjF-U15cMICGZ7W3jJreg",
     "j": "",
     "l": "https://www.balagerutv.com/"
+  },
+  {
+    "a": "Sheger FM",
+    "b": "Yenanetew Radio!",
+    "e": "SHEGER 102.1FM 'Yenanetew Radio' is the first private radio station in Ethiopia. We are proud to be Ethiopian and we love our country more than anything!",
+    "k": ["News", "Entertainment"],
+    "f": "https://bazenitech.github.io/ethiopianlivetv/images/sheger.png",
+    "g": "http://stream.zenolive.com/6tgb6cp9k1duv",
+    "c": false,
+    "h": "https://www.facebook.com/Sheger102.1/",
+    "i": "https://www.youtube.com/channel/UC9uvm3QhajePOVdct3Jv8Hg",
+    "j": "",
+    "l": "http://www.shegerfm.com/",
+	"t": "Radio"
+  },
+  {
+    "a": "Bisrat FM",
+    "b": "Favorite, Chosen and full of options",
+    "e": "Bisrat FM 101.1 is a radio station established by Oyaya Multimedia. Our vision is far reaching. We will break good news to the people of Ethiopia sharing their sentiment of happiness and information.",
+    "k": ["News", "Entertainment", "Sport"],
+    "f": "https://bazenitech.github.io/ethiopianlivetv/images/bisratFM.png",
+    "g": "http://ice1.securenetsystems.net/DEMOSTN",
+    "c": false,
+    "h": "https://www.facebook.com/Bisrat101.1/",
+    "i": "https://www.youtube.com/channel/UCnJtGEn1wrh2gBibW8nAZ1A/",
+    "j": "",
+    "l": "http://www.bisrat101.com/",
+	"t": "Radio"
+  },    
+  {
+    "a": "Fana FM",
+    "b": "At a Speed of Life!",
+    "e": "Radio Fana, now called Fana Broadcasting Corporate. FBC currently possesses high-quality audibility and reaches a World Wide audience. It broadcasts via SW, MW FM and Live Streaming Internet Radio transmission",
+    "k": ["News", "Entertainment"],
+    "f": "https://bazenitech.github.io/ethiopianlivetv/images/fana.png",
+    "g": "http://video2.vixtream.net/radio/v/fbcfm",
+    "c": true,
+    "h": "https://www.facebook.com/fanabroadcasting",
+    "i": "https://www.youtube.com/user/fanabroadcasting",
+    "j": "https://twitter.com/fanatelevision",
+    "l": "https://fanabc.com",
+	"t": "Radio"
+  },
+  {
+    "a": "Ahadu FM",
+    "b": "",
+    "e": "AHADU Radio Station is a mission-driven, multimedia news organization and radio and TV program producer. It is a network with a strong base of supporters nationwide. On-air and online, AHADU presents fact-based, independent journalism that examines and airs diverse perspectives.",
+    "k": ["News", "Entertainment"],
+    "f": "https://bazenitech.github.io/ethiopianlivetv/images/ahaduFM.png",
+    "g": "http://ice31.securenetsystems.net/AHADU94",
+    "c": true,
+    "h": "https://www.facebook.com/ahaduradio/",
+    "i": "https://www.youtube.com/channel/UCxf5UFD9qlGWaQbkRfrTDXw",
+    "j": "https://twitter.com/ahadu_radio",
+    "l": "http://ahaduradio.com/",
+	"t": "Radio"
   }
 ]
